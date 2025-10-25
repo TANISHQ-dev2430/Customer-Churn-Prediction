@@ -1,0 +1,33 @@
+{
+  "build": "hd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "prompt-toolkit >=3.0.52,<3.0.53.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\ptani\\.conda\\pkgs\\prompt_toolkit-3.0.52-hd3eb1b0_0",
+  "files": [],
+  "fn": "prompt_toolkit-3.0.52-hd3eb1b0_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\ptani\\.conda\\pkgs\\prompt_toolkit-3.0.52-hd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "fdef529bf1042c27aa68e8aee5f69167",
+  "name": "prompt_toolkit",
+  "noarch": "generic",
+  "package_tarball_full_path": "C:\\Users\\ptani\\.conda\\pkgs\\prompt_toolkit-3.0.52-hd3eb1b0_0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "63052192e3b2f134abf91490ef4ab1929773d4f1b9e463ad76cabd8f28e54c88",
+  "size": 5493,
+  "subdir": "noarch",
+  "timestamp": 1760375731000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/prompt_toolkit-3.0.52-hd3eb1b0_0.conda",
+  "version": "3.0.52"
+}
